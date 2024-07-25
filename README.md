@@ -124,8 +124,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Contact
 
-For any inquiries or support, please contact [your.email@example.com](mailto:your.email@example.com).
+For any inquiries or support, please contact krzysztofwaszkiewicz94@gmail.com
 
 ---
-
-Feel free to customize this description to better match your project's specifics and your preferences.
